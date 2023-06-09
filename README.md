@@ -1,8 +1,8 @@
 # sitronix-touch
 
-Sitronix Touch IC driver for embedded-hal(Touch Screen Controller).
+Sitronix Touch IC(Touch Screen Controller) driver for embedded-hal.
 
-ST1912/ST1727/ST1x32/ST1x28/ST1x30/ST1x34/ST1x36/ST1x33i/ST1x33/ST1x24/ST1615
+Supports ST1912/ST1727/ST1x32/ST1x28/ST1x30/ST1x34/ST1x36/ST1x33i/ST1x33/ST1x24/ST1615.
 
 ## Notes
 
